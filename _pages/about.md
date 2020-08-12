@@ -17,4 +17,5 @@ redirect_from:
 * My research interests lie in the general area of machine learning, particularly in deep learning, reinforcement learning and probabilistic graphical models, as well as their applications in sequential decision making, generative modeling, multi-task and meta-learning and multi-agent systems.
 
 # Recent News
-* May 4, 2020. Stated Summer Internship at [Hexagon Capability Center India](https://www.linkedin.com/company/hexagon-capability-center-india/?originalSubdomain=in)
+* July 31, 2020. Interned at [Hexagon Capability Center India](https://www.linkedin.com/company/hexagon-capability-center-india/?originalSubdomain=in)
+* August 1, 2017. Started Pursuing Bachelor of Technology in Electrical Engineering at [Indian Institute of Technology, Hyderabad](https://www.iith.ac.in/)
