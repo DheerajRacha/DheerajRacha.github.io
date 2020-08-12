@@ -4,7 +4,6 @@ title: "Contact"
 permalink: /contact/
 author_profile: true
 ---
-Computer Science Department, Stanford University<br>
-Gates 158, 353 Serra Mall, Stanford, CA 94305<br>
-Email: lantaoyu [at] cs.stanford.edu
-
+B-218, Boys Hostel, IIT Hyderabad <br>
+Telangana, India, 502285 <br>
+Email: ee17btech11033 [at] iith.ac.in
