@@ -12,7 +12,7 @@ author_profile: true
 ### Deep Learning based Channel Decoding [[GitHub](https://github.com/DheerajRacha/On-Deep-Learning-Based-Channel-Decoding)]
 
 * An application of deep learninig for wireless communications.
-* Provides an evidence that neural networks can be used to decode [palar codes](https://en.wikipedia.org/wiki/Polar_code_(coding_theory)), which is usually done using classical methods which suffers from high decoding complexity.
+* Provides an evidence that neural networks can be used to decode [polar codes](https://en.wikipedia.org/wiki/Polar_code_(coding_theory)), which is usually done using classical methods which suffers from high decoding complexity.
 
 ### Event Detection in Social Streams [[GitHub](https://github.com/DheerajRacha/Event-Detection)]
 
