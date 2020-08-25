@@ -5,11 +5,11 @@ author_profile: true
 ---
 <hr> 
 
-### Reinforcement Learning [[GitHub](https://github.com/DheerajRacha/Reinforcement-Learning)]
+### Solving Games with Reinforcement Learning [[GitHub](https://github.com/DheerajRacha/Reinforcement-Learning)]
 
 * Implemented few deep reinforcement learning algorithms (DQN, Policy Gradient etc.) in python using TensorFlow Keras and OpenAI Gym environments.<br>
 
-### On Deep Learning based Channel Decoding [[GitHub](https://github.com/DheerajRacha/On-Deep-Learning-Based-Channel-Decoding)]
+### Deep Learning based Channel Decoding [[GitHub](https://github.com/DheerajRacha/On-Deep-Learning-Based-Channel-Decoding)]
 
 * An application of deep learninig for wireless communications.
 * Provides an evidence that neural networks can be used to decode [palar codes](https://en.wikipedia.org/wiki/Polar_code_(coding_theory)), which is usually done using classical methods which suffers from high decoding complexity.
@@ -37,4 +37,4 @@ author_profile: true
 
 ### Drone
 * Built a Quadcopter.
-* Assembled all the parts from scratch and successfully able to fly the drone.
+* Assembled all the parts from scratch and successfully aviated it.
