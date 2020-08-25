@@ -37,4 +37,4 @@ author_profile: true
 
 ### Drone
 * Built a Quadcopter.
-* Assembled all the parts from scratch and successfully aviated it.
+* Assembled all the parts from scratch and succeeded in getting it to fly.
