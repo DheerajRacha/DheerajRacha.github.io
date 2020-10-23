@@ -5,6 +5,9 @@ author_profile: true
 ---
 <hr> 
 
+### Surveillance Camera Obstruction Detection (Ongoing)
+* To detect any unauthorized alteration of viewpoint of surveillance camera. It can be any object which blocks the view point of camera, accumulation of fog / dust on the camera and change in the viewpoint (manually or naturally due to winds).
+
 ### Solving Games with Reinforcement Learning [[GitHub](https://github.com/DheerajRacha/Reinforcement-Learning)]
 
 * Implemented few deep reinforcement learning algorithms (DQN, Policy Gradient etc.) in python using TensorFlow Keras and OpenAI Gym environments.<br>
@@ -23,18 +26,18 @@ author_profile: true
 ### Segmentation of Aerial Images [[GitHub](https://github.com/DheerajRacha/Image-Segmentation)]
 * Studied the performance of state-of-the-art semantic segmentation model, DeepLab V3 on aerial image dataset ([Inria Dataset](https://project.inria.fr/aerialimagelabeling/)).
 
-### Neural Netowork from Scratch [[GitHub](https://github.com/DheerajRacha/NeuralNets_Numpy)]
+<!-- ### Neural Netowork from Scratch [[GitHub](https://github.com/DheerajRacha/NeuralNets_Numpy)]
 * Implemented forward and backward pass of feed forward neural networks from scratch using numpy.
-* Alongside backpropagation algorithm, implemented different optimizers (Momentum, AgaGrad, RMSProp, Adam) and trained the neural network on MNIST dataset.
+* Alongside backpropagation algorithm, implemented different optimizers (Momentum, AgaGrad, RMSProp, Adam) and trained the neural network on MNIST dataset. -->
 
-### Voice Controlled Robotic Car
+<!-- ### Voice Controlled Robotic Car
 * Built a robotic car from scratch which can be controlled from smartphone via bluetooth.
-* Trained a neural netowrk to recognize speech commands (Left, Right, Forward, Backward, Stop) to give to the robotic car as input commands.
+* Trained a neural netowrk to recognize speech commands (Left, Right, Forward, Backward, Stop) to give to the robotic car as input commands. -->
 
-### Smart City
+<!-- ### Smart City
 * Developed a web interface to moniter the live data sensed from street lights.
-* Implemented an IoT architecture (from physical layer-sensors to application layer-web interface).
+* Implemented an IoT architecture (from physical layer-sensors to application layer-web interface). -->
 
-### Drone
+<!-- ### Drone
 * Built a Quadcopter.
-* Assembled all the parts from scratch and succeeded in getting it to fly.
+* Assembled all the parts from scratch and succeeded in getting it to fly. -->
